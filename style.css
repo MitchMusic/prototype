@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(175, 156, 132);
+    margin: 0px 50px 0 50px;
+}
+
+p {
+    font-weight: 600;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.titleCard {
+    width: 500px;
+    height: 300px;
+}
+
+/*Mega Red CSS code*/
+.redranger {
+    width: 130px;
+    height: 374px;
+}
+
+.megared {
+    display: inline-block;
+}
+
+/*Shinken Green CSS code*/
+.greenranger {
+    width: 200px;
+    height: 300px;
+}
+
+/*General CSS code*/
+.ranger {
+    width: 180px;
+    height: 384px;
+}
+
+/*Dora Unicorn CSS code*/
+.uniMonster {
+    display: inline-block;
+    width: 250px;
+    height: 384px;
+}
+
+.unicorn {
+    display: inline-block;
+}
+
+/*AbareBlack CSS code*/
+.blackranger {
+    width: 164px;
+    height: 374px;
+}
+.abareblack {
+    display: inline-block;
+}
+
+/*Raizo Gabi CSS code*/
+.gabiMonster {
+    display: inline-block;
+    width: 250px;
+    height: 380px;
+}
+
+.gabi {
+    display: inline-block;
+}
+
+.neziranger {
+    display: inline-block;
+}
+
+.zyuranger {
+    display: inline-block;
+}
